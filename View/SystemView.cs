@@ -6,7 +6,7 @@ namespace Game_analysis_MVPPattern.View{
 
     private int playerFreegems = 0;
     private int playerPaygems = 0;
-    private isRunning = false;
+    private bool isRunning = false;
     
     public void StartGameLoop(){
       isRunning = true;
