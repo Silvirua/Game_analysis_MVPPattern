@@ -1,7 +1,7 @@
-# Game_analysis_MVPPatten
+# Game_analysis_MVPPattern
 게임 분석 MVP Patten 과제
 
-## 26.04.07. MVP Patten 응용 과제
+## 26.04.07. MVP Pattern 응용 과제
 1. 구현 예제 : 뽑기 시스템. 1 or 5~
 2. 규칙 :
    1) 뽑기 재화(유료든 무료든)가 충분한가 확인
